@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Tela responsiva com customizações mais avançadas do css. 
 
-- [Acesse o projeto finalizado, online](https://andresa43.github.io/projeto-mobile-web-responsividade/)
+- [Acesse o projeto finalizado, online](https://codepen.io/andresafernandes/pen/GRYPLPG)
 
 ## 🔖 Layout
 
